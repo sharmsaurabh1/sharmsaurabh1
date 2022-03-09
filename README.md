@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharmsaurabh1
 - 👀 I’m interested in data analytics and web developing
 - 🌱 I’m currently learning machine learning and new web-based frameworks
-- 💞️ I’m looking to collaborate on software engineering project.
+- 💞️ I’m looking to collaborate on data analysis project.
 - 📫 How to reach me , email me at softwareengineerss17@gmail.com
 
 <!---
